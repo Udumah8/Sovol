@@ -1,0 +1,27 @@
+{
+  "name": "volume-booster-bot",
+  "version": "1.0.0",
+  "description": "A Solana volume bot",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@solana/spl-token": "^0.4.1",
+    "@solana/web3.js": "^1.90.0",
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5",
+    "jsonfile": "^6.1.1",
+    "p-limit": "^4.0.0"
+    
+  }
+  ,
+  "keywords": [
+    "solana",
+    "bot",
+    "volume"
+  ],
+  "author": "Bard",
+  "license": "MIT"
+}
