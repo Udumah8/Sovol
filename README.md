@@ -40,6 +40,9 @@ A high-performance, adaptive Solana volume boosting bot designed to generate org
 2. **Install dependencies:**
    ```bash
    npm install
+
+    install solana-trade
+    npm install solana-trade
    ```
 
 3. **Configure the bot:**
@@ -77,3 +80,4 @@ See `.env.example` for a full list of options. Key parameters include:
 ## Disclaimer
 
 This software is for educational purposes only. Use at your own risk. The authors are not responsible for any financial losses incurred while using this bot. Always test on Devnet first.
+
