@@ -5,7 +5,7 @@
  * This bot implements advanced volume boosting strategies with stealth features,
  * circuit breakers, and multi-tier market data integration.
  *
- * @author Kilo Code
+ * @author don c
  * @version 2.0.0
  * @license MIT
  */
